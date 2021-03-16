@@ -1,0 +1,14 @@
+{
+    "name": "c182luo/demo",
+    "description": "test project",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "chh",
+            "email": "2198046782@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
